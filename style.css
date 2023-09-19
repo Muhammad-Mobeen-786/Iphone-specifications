@@ -1,0 +1,22 @@
+h1{
+    font-family:cursive;
+    text-align:center;
+}
+img{
+    float:left;
+    border:2px solid black;
+}
+p{
+    font-size:25px;
+    position:relative;
+    left:5px;
+}
+*{
+    font-family:cursive;
+}
+footer{
+    clear:left;
+}
+header, footer{
+    text-align:center;
+}
